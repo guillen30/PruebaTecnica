@@ -1,0 +1,18 @@
+# Build
+bin/
+obj/
+
+# User-specific files
+*.user
+*.vs
+.vscode/
+
+# SQLite database
+*.db
+
+# EF Migrations snapshot
+*.db-wal
+*.db-shm
+
+# Test results
+TestResults/
