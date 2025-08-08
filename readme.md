@@ -56,18 +56,18 @@ Se generará un archivo `banca.db` en la carpeta raíz de la API.
 
 ### 4. Ejecutar la API
 ```bash
+cd ..
 dotnet run --project Api
 ```
 
 La API estará disponible en:
 ```
-HTTPS: https://localhost:7201
 HTTP : http://localhost:5206
 ```
 
 Para probarla, abre en el navegador:
 ```
-https://localhost:7201/swagger
+http://localhost:5206/swagger
 ```
 
 ---
